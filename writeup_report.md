@@ -43,3 +43,11 @@ One potential shortcoming would be inaccurate detecting of the marking line you 
 
 A possible improvement would be to make better approximation of the marking line.
 
+### 4. Result
+
+[solidWhiteRight](https://www.youtube.com/watch?v=nlnW9lIQxDg)
+
+[solidYellowLeft](https://www.youtube.com/watch?v=smwnOaQDwPc)
+
+[Challenge](https://www.youtube.com/watch?v=bMkZK-wLSeE)
+
